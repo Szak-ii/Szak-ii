@@ -13,7 +13,6 @@
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="40" height="55" alt="JavaScript">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="40" height="55" alt="HTML5">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="40" height="55" alt="CSS3">
-<img src="https://img.icons8.com/plasticine/512/react.png" width="50" height="55" alt="React">
   </div>
 <!---
 Szak-ii/Szak-ii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
